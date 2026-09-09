@@ -1,4 +1,4 @@
-# Talk To PDf 
+# PDF Ingestion Pipeline
 
 Talk to pdf is a project which enables you to upload pdf's you can chat and ask questions regarding this pdf
 
