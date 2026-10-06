@@ -39,7 +39,7 @@ Now not like traditional you can upload tons of pdf just keeping in mind these p
 
 - go to 
 ```
-https://talktopdf.ahmadsiddique.dev/chat
+https://talktopdf.ahmadsiddique.hackclub.app
 ``` 
 - Upload documents
 - Click on Chat button 
